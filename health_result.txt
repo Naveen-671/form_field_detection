@@ -1,0 +1,1 @@
+HEALTH: {"status":"ok","detector_ready":true,"ocr_ready":true}
