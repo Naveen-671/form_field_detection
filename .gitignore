@@ -35,6 +35,19 @@ Thumbs.db
 
 # Logs
 *.log
+server_log*.txt
+
+# Test outputs and temporary files
+test_*.txt
+*_result.txt
+*_output*.txt
+nim_*.txt
+health_*.txt
+*.json.bak
+field_dump.json
+
+# Backup files
+*_backup.py
 
 # Jupyter
 .ipynb_checkpoints/

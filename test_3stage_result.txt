@@ -1,4 +1,0 @@
-=== Testing pipeline=full (3-stage) ===
-PDF: app\assets\Consent_Form_Final_2607.pdf
-Time: 2026-03-02 10:45:19
-
